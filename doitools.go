@@ -10,6 +10,8 @@ const (
 	Version = `v0.0.1`
 )
 
+// NormaliseDOI can take a URL to a DOI and returns just the DOI
+// portion or an error message.
 func NormalizeDOI(s string) (string, error) {
 	if strings.HasPrefix(s, "http://") || strings.HasPrefix(s, "https://") {
 		u, err := url.Parse(s)
