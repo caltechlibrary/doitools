@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	Version = `v0.0.1`
+	Version = `v0.0.2`
 )
 
 // NormaliseDOI can take a URL to a DOI and returns just the DOI
