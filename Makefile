@@ -64,6 +64,9 @@ test: $(PACKAGE)
 website: clean-website .FORCE
 	make -f website.mak
 
+publish: website .FORCE
+	./publish.bash
+
 status:
 	git status
 
