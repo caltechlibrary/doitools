@@ -1,0 +1,27 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: doitools
+abstract: "A Golang package and for working with DOI and is used by other Caltech Library packages."
+authors:
+  - family-names: Doiel
+    given-names: Robert
+    orcid: https://orcid.org/0000-0003-0900-6903
+    email: rsdoiel@caltech.edu
+
+contacts:
+  - family-names: Doiel
+    given-names: Robert
+    orcid: https://orcid.org/0000-0003-0900-6903
+    email: rsdoiel@caltech.edu
+
+repository-code: "https://github.com/caltechlibrary/doitools"
+version: 0.0.3
+date-released: 2025-01-10
+
+license-url: "https://caltechlibrary/doitools/blob/main/LICENSE"
+keywords:
+  - DOI
+  - metadata
+
