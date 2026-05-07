@@ -31,34 +31,42 @@ About this software
 
 ## doitools 0.0.3
 
-Updated Go version to 1.23
+Updated Go version to 1.26
 
-### Authors
+## Authors
 
-- Robert Doiel, <https://orcid.org/0000-0003-0900-6903>
-
-
+- [Robert Doiel](https://orcid.org/0000-0003-0900-6903)
 
 
-### Maintainers
 
-- Robert Doiel, <https://orcid.org/0000-0003-0900-6903>
+
+## Maintainers
+
+- [Robert Doiel](https://orcid.org/0000-0003-0900-6903)
 
 
 A Golang package and for working with DOI and is used by other Caltech Library packages.
 
-- License: <https://caltechlibrary/doitools/blob/main/LICENSE>
-- GitHub: <https://github.com/caltechlibrary/doitools>
-- Issues: <https://github.com/caltechlibrary/doitools/issues>
+- [License](https://caltechlibrary/doitools/blob/main/LICENSE)
+- [Code Repository](https://github.com/caltechlibrary/doitools)
+  - [Issue Tracker](https://github.com/caltechlibrary/doitools/issues)
 
-### Programming languages
+## Programming languages
 
-- Go &gt;&#x3D; 1.23
-
-
+- Go >= 1.23
 
 
 
 
+## Software Requirements
+
+- Go >= 1.26
+
+
+## Software Suggestions
+
+- CMTools >= 0.0.43
+- Pandoc >= 3.9
+- GNU Make >= 3.8
 
 
